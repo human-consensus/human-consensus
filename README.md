@@ -1,16 +1,26 @@
-## Hi there 👋
+# The Human Consensus
 
-<!--
-**human-consensus/human-consensus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+個人情報を1文字も残さない、プライバシー保護型の意思決定ツールを開発中です。
 
-Here are some ideas to get you started:
+## 目指していること
+- 個人情報をサーバーに保存しない
+- 選択内容を外部に証明できない設計（ZKP + MACI）
+- eSIM由来のDIDで参加者を区別
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 現状
+- 仕様検討・構想段階
+- 技術知識ほぼゼロの個人開発です
+- プロのエンジニアからの意見・指摘を強く求めています
+
+## 技術スタック（予定）
+- DID（eSIMベース）
+- zk-SNARKs
+- MACI
+
+## 協力してほしいこと
+- アーキテクチャの穴や問題点の指摘
+- 実装可能性についてのフィードバック
+- 参考になる既存実装や論文の紹介
+
+Issueやコメント大歓迎です。  
+よろしくお願いします。
